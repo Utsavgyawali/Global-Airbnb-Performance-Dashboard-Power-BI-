@@ -8,7 +8,7 @@
 
 ### Overview
 
-This dashboard analyzes Airbnb's global listing data across 10 major cities — Paris, New York, Sydney, Rome, Rio de Janeiro, Istanbul, Mexico City, Bangkok, Cape Town, and Hong Kong  covering approximately 280K listings, 182K unique hosts, and 5.3 million reviews.
+This dashboard analyzes Airbnb's global listing data across 10 major cities  Paris, New York, Sydney, Rome, Rio de Janeiro, Istanbul, Mexico City, Bangkok, Cape Town, and Hong Kong  covering approximately 280K listings, 182K unique hosts, and 5.3 million reviews.
 
 
 
